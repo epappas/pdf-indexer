@@ -1,0 +1,25 @@
+{
+  "name": "pdf-indexer",
+  "version": "0.0.1",
+  "description": "a dummy simple pdf indexer",
+  "main": "worker.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/epappas/pdf-indexer.git"
+  },
+  "keywords": [
+    "pdf",
+    "indexer",
+    "worker",
+    "pdf.js"
+  ],
+  "author": "Evangelos Pappas <epappas@evalonlabs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epappas/pdf-indexer/issues"
+  },
+  "homepage": "https://github.com/epappas/pdf-indexer"
+}
